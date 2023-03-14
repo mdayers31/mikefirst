@@ -97,8 +97,8 @@
 #mdp-api-key-drop-zone.mdp-key-uploaded .mdp-drop-zone-hover {
   display: none;
   opacity: 0;
-  color: #aaaaaa;
-  width: 100%;
+  color: #ff0000;
+  width: 50%;
   font-size: 13px;
   margin-top: 12px;
   transition: 1s;
